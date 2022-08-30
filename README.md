@@ -1,4 +1,4 @@
-# NRF24L01_Arduino
+# NRF24L01
 
 How to Flash the Atmega328p using avrdude
 
